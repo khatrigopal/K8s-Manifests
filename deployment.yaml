@@ -18,7 +18,7 @@ spec:
         app: myapp
     spec:
       containers:
-      - image: khatrig/argocd-python:11
+      - image: khatrig/argocd-python:12
         name: myapp
         resources: {}
 status: {}
